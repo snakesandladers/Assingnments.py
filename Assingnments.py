@@ -17,3 +17,9 @@ print(x>=y)
 x<=y
 print(x<=y)
 
+output:
+True
+True
+False
+True
+False
