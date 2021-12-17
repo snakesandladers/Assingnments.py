@@ -9,3 +9,8 @@ print(N)
 #not operator 
 N=not(x<y and y>x)
 print(N)
+
+output:
+True
+True
+False
