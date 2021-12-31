@@ -79,5 +79,24 @@ x = {"apple", "banana", "cherry"}
 y = {"google", "microsoft", "apple"}
 x.update(y)
 print(x) 
+Output:
+  {'lemon', 'orange', 'apple', 'mango'}
+set()
+{'lemon', 'apple', 'mango'}
+{'lemon', 'mango'}
+{'lemon', 'mango'}
+{'lemon', 'mango'}
+{'apple'}
+{'apple'}
+False
+True
+True
+{'banana', 'apple'}
+{'cherry', 'apple'}
+{'microsoft', 'cherry', 'banana', 'google'}
+{'microsoft', 'cherry', 'banana', 'google'}
+{'banana', 'apple', 'google', 'microsoft', 'cherry'}
+{'banana', 'apple', 'google', 'microsoft', 'cherry'}
+  
 
 
