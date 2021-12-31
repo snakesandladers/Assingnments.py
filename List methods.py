@@ -44,3 +44,16 @@ cars=['BMW','BENZ','AUDI']
 cars.sort()
 print(cars)
 
+OUTPUT:
+  ['apple', 'banana', 'mango', 'orange']
+[]
+['apple', 'banana', 'mango']
+1
+['apple', 'banana', 'mango', 'BMW', 'BENZ', 'AUDI']
+2
+['apple', 'orange', 'banana', 'mango']
+['apple', 'mango']
+['banana', 'mango']
+['mango', 'banana', 'apple']
+['AUDI', 'BENZ', 'BMW']
+
