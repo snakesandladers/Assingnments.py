@@ -83,7 +83,19 @@ car={
     }
 x=car.values()
 print(x)
-    
+   
+Output:
+{}
+{'car': 'ford', 'model': 'Mustang', 'year': 1964}
+{'key 1': 0, 'key 2': 0, 'key 3': 0}
+Mustang
+dict_items([('car', 'ford'), ('model', 'Mustang'), ('year', 1964)])
+dict_keys(['car', 'model', 'year'])
+{'car': 'ford', 'year': 1964}
+{'car': 'ford', 'model': 'Mustang'}
+Mustang
+{'car': 'ford', 'model': 'Mustang', 'year': 1964, 'color': 'white'}
+dict_values(['ford', 'Mustang', 1964])        
 
 
 
